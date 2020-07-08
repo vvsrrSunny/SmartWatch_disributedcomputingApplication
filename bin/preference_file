@@ -1,0 +1,11 @@
+name: bryan
+Medical Condition Type: 2
+pref-1: when 30 suggest pool //temp. threshold example
+pref-2: when APO suggest cinema //APO threshold example
+pref-3: when weather suggest cinema //weather alarm example
+
+name: james
+Medical Condition Type: 3
+pref-1: when 35 suggest pool //temp. threshold example
+pref-2: when APO suggest cinema //APO threshold example
+pref-3: when weather suggest pool //weather alarm example
